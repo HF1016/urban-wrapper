@@ -7,4 +7,4 @@ __all__ = [
 
 author = "catto"
 version = "0.0.1"
-description = "Urban Dictionary API wrapper. Asyncrhonous and syncrhonous version."
+description = "Urban Dictionary API wrapper. Asyncrhonous and syncrhonous version.\n"
